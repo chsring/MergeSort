@@ -85,6 +85,6 @@ object MergeSort {
             array[index] = temp[index]
             println("temp[" + index + "]" + "....." + temp[index])
         }
-        println("===============")
+        println("--------------执行结果----------------")
     }
 }
